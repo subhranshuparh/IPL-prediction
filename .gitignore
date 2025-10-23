@@ -1,0 +1,58 @@
+# Python and Streamlit
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
+.DS_Store
+
+# pip and Conda files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook outputs
+*.ipynb_checkpoints
+
+# Machine learning model artifacts
+*.pkl
+*.joblib
+*.h5
+*.csv
+*.xlsx
+
+# Streamlit cache and logs
+.cache/
+.streamlit/
+logs/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Other archives/data
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+
+# Ignore Python virtual environment and site-packages
+Lib/
+venv/
+.venv/
+ENV/
+env/
