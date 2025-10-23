@@ -22,7 +22,7 @@ build/
 *.ipynb_checkpoints
 
 # Machine learning model artifacts
-*.pkl
+# *.pkl
 *.joblib
 *.h5
 *.csv
